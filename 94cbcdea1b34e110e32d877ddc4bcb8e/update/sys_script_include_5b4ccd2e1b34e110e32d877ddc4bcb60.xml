@@ -11,6 +11,8 @@
 DelphixApp01script.prototype = {
     initialize: function() {
     },
+	//test
+	//carlos
 
     type: 'DelphixApp01script'
 };]]></script>
